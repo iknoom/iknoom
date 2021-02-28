@@ -4,8 +4,8 @@
 - 📫 How to reach me: iknoom@kakao.com
 
 ## Problem Solving
-[![codeforces](https://cp-logo.vercel.app/codeforces/IKnoom)]
-[![atcoder](https://cp-logo.vercel.app/atcoder/IKnoom)]
+![codeforces](https://cp-logo.vercel.app/codeforces/IKnoom)
+![atcoder](https://cp-logo.vercel.app/atcoder/IKnoom)
 [![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=iknoom1107)](https://solved.ac/iknoom1107)
 - [Codeforces](https://codeforces.com/profile/IKnoom)
 - [AtCoder](https://atcoder.jp/users/IKnoom)
