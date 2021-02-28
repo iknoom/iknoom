@@ -1,5 +1,15 @@
-### Hi there 👋
+- 🏫 I'm a student at the University of Seoul in South Korea.
+- 🌱 I’m currently learning Backend(Spring), Java
+- 🔥 I'm interested in Problem Solving(Competitive Programming, 競技プログラミング), Python
+- 📫 How to reach me: iknoom@kakao.com
 
+## Problem Solving
+[![codeforces](https://cp-logo.vercel.app/codeforces/IKnoom)]
+[![atcoder](https://cp-logo.vercel.app/atcoder/IKnoom)]
+[![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=iknoom1107)](https://solved.ac/iknoom1107)
+- [Codeforces](https://codeforces.com/profile/IKnoom)
+- [AtCoder](https://atcoder.jp/users/IKnoom)
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/iknoom1107)
 <!--
 **iknoom/iknoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
