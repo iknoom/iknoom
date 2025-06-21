@@ -1,5 +1,6 @@
-- 🏫 I'm a student at the University of Seoul in South Korea.
-- 🌱 I’m currently learning Backend(Spring), Java
+- 👔 I'm software engineer at samsung SDS in South Korea.
+- 💻 I’m currently developing cross-platform SDK for realtime media communication.
+  - skills: C/C++, WebRTC
 - 🔥 I'm interested in Problem Solving(Competitive Programming, 競技プログラミング), Python
 - 📫 How to reach me: iknoom@kakao.com
 
