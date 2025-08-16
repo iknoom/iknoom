@@ -1,8 +1,8 @@
-- 👔 I'm software engineer at samsung SDS in South Korea.
+- 👔 I'm software engineer at Samsung SDS in South Korea.
 - 💻 I’m currently developing cross-platform SDK for realtime media communication.
   - skills: C/C++, WebRTC
 - 🔥 I'm interested in Problem Solving(Competitive Programming, 競技プログラミング), Python
-- 📫 How to reach me: iknoom@kakao.com
+- 📫 How to reach me: moonki1107@gmail.com
 
 ## Problem Solving
 ![codeforces](https://cp-logo.vercel.app/codeforces/IKnoom)
